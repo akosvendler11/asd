@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>asd</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Első weblap</h1>
+<p>kollázskép.</p>
 <img src="kollazskep.png" alt="Italian Trulli">
 
 </body>
