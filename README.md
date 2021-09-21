@@ -7,7 +7,7 @@
 <body>
 
 <h1>Első weblap</h1>
-<p>kollázskép.</p>
+<p>kollázskép</p>
 <img src="kollazskep.png" alt="Italian Trulli">
 
 </body>
