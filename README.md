@@ -4,7 +4,7 @@
 <head>
 <title>asd</title>
 </head>
-<body style="background-color:#FFA500;">
+<body style="background-color:orange;">
       
 
 <h1>Első weblap</h1>
